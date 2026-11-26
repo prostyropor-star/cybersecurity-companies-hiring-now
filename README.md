@@ -122,6 +122,7 @@ Updated monthly. ⭐ Star the repo to get the next update.
 
 ## More
 
+- All five top-100 lists as CSV: [Kaggle dataset](https://www.kaggle.com/datasets/prostyropordata/companies-hiring-now-top-100-by-role-nov-2026)
 - Free top-20 security list and analysis: [security.html](https://prostyropor-star.github.io/companies-hiring-now/security.html)
 - Top 100 AI employers: [ai-companies-hiring-now](https://github.com/prostyropor-star/ai-companies-hiring-now)
 - Top 100 US remote employers: [remote-companies-hiring-now](https://github.com/prostyropor-star/remote-companies-hiring-now)
